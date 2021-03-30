@@ -6,7 +6,7 @@ public class CreateProductTest {
 	@Test(groups= {"regression"})
 	public void createProduct()
 	{
-		String url=System.getProperty("url");
+		String url=System.getProperty("URL");
 		String user=System.getProperty("user");
 		System.out.println("product cReate ");
 		System.out.println(url);
