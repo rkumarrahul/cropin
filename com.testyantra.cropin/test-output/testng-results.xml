@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="904" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="904" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+      <class name="com.testyantra.cropintest.CreateContactTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.CreateContactTest@396f6598]" name="createContact" duration-ms="35" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.CreateContactTest -->
+      <class name="com.testyantra.cropintest.CreateLeadTest">
+        <test-method status="PASS" signature="CreateLead()[pri:0, instance:com.testyantra.cropintest.CreateLeadTest@5f282abb]" name="CreateLead" duration-ms="58" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateLead -->
+      </class> <!-- com.testyantra.cropintest.CreateLeadTest -->
+      <class name="com.testyantra.cropintest.DateTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.DateTest@1d29cf23]" name="createContact" duration-ms="36" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.DateTest -->
+      <class name="com.testyantra.cropintest.CreateVendorTest">
+        <test-method status="PASS" signature="CreateVendor()[pri:0, instance:com.testyantra.cropintest.CreateVendorTest@5a1c0542]" name="CreateVendor" duration-ms="42" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateVendor -->
+      </class> <!-- com.testyantra.cropintest.CreateVendorTest -->
+      <class name="com.testyantra.cropintest.CreateCampaignTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.CreateCampaignTest@27a5f880]" name="createContact" duration-ms="29" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.CreateCampaignTest -->
+      <class name="com.testyantra.cropintest.CreatePurchaseOrderTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.CreatePurchaseOrderTest@394e1a0f]" name="createContact" duration-ms="34" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.CreatePurchaseOrderTest -->
+      <class name="com.testyantra.cropintest.CreateProductTest">
+        <test-method status="PASS" signature="CreateProduct()[pri:0, instance:com.testyantra.cropintest.CreateProductTest@167fdd33]" name="CreateProduct" duration-ms="25" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProduct -->
+      </class> <!-- com.testyantra.cropintest.CreateProductTest -->
+      <class name="com.testyantra.cropintest.SettingTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.SettingTest@1e965684]" name="createContact" duration-ms="33" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.SettingTest -->
+      <class name="com.testyantra.cropintest.CreateorganizationTest">
+        <test-method status="PASS" signature="Createorganization()[pri:0, instance:com.testyantra.cropintest.CreateorganizationTest@1f7030a6]" name="Createorganization" duration-ms="534" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createorganization -->
+      </class> <!-- com.testyantra.cropintest.CreateorganizationTest -->
+      <class name="com.testyantra.cropintest.DeleteContactTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.testyantra.cropintest.DeleteContactTest@4d95d2a2]" name="createContact" duration-ms="24" started-at="2021-04-04T19:28:56 IST" finished-at="2021-04-04T19:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+      </class> <!-- com.testyantra.cropintest.DeleteContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
